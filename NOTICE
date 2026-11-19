@@ -1,0 +1,17 @@
+Product Superpowers: Triple Diamond
+Copyright 2026 Anna Podobrazhnykh
+
+This repository includes 68 skills from pm-skills by product-on-purpose
+(https://github.com/product-on-purpose/pm-skills), licensed under the
+Apache License, Version 2.0. They are included unmodified in the folders
+skills/define-*, skills/deliver-*, skills/develop-*, skills/discover-*,
+skills/foundation-*, skills/iterate-*, skills/measure-*, skills/utility-*,
+skills/tool-design-sprint-*, skills/tool-foundation-sprint-* and
+skills/tool-note-and-vote.
+
+Added by Anna Podobrazhnykh, also under the Apache License, Version 2.0:
+skills/diamond-navigator, skills/stage-*, skills/final-critic,
+skills/tool-research-design, skills/tool-interview-guide,
+skills/tool-synthetic-interviews, skills/tool-interview-critique,
+skills/tool-interview-synthesis, skills/tool-survey-check,
+skills/tool-assumptions, skills/tool-experiment-design, AGENTS.md, README.md.

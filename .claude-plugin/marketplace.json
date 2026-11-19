@@ -1,0 +1,17 @@
+{
+  "name": "product-superpowers-v2",
+  "owner": {
+    "name": "Anna Podobrazhnykh",
+    "url": "https://github.com/annapodobrazhnykh"
+  },
+  "description": "Triple Diamond skills for product managers",
+  "plugins": [
+    {
+      "name": "triple-diamond",
+      "description": "Walks a product initiative along the Triple Diamond from idea to launch.",
+      "version": "2.0.0",
+      "source": "./",
+      "license": "Apache-2.0"
+    }
+  ]
+}

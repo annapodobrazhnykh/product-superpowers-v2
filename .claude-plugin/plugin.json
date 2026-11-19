@@ -1,0 +1,20 @@
+{
+  "name": "triple-diamond",
+  "version": "2.0.0",
+  "description": "Walks a product initiative along the Triple Diamond from idea to launch: a navigator, steps with human sign-off, stage critics, research tools, and 68 product skills from product-on-purpose/pm-skills. Replies in the user's language.",
+  "author": {
+    "name": "Anna Podobrazhnykh",
+    "url": "https://github.com/annapodobrazhnykh"
+  },
+  "homepage": "https://github.com/annapodobrazhnykh/product-superpowers-v2",
+  "repository": "https://github.com/annapodobrazhnykh/product-superpowers-v2",
+  "license": "Apache-2.0",
+  "keywords": [
+    "product-management",
+    "triple-diamond",
+    "discovery",
+    "agent-skills",
+    "codex",
+    "claude"
+  ]
+}
